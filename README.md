@@ -1,49 +1,38 @@
-Problem Statement:
+# Axon Sales Data Analysis and Business Intelligence Project
 
-A small company Axon, which is a retailer selling classic cars, is facing issues in managing and analyzing their sales data. The sales team is struggling to make sense of the data and they do not have a centralized system to manage and analyze the data. The management is unable to get accurate and up-to-date sales reports, which is affecting the decision-making process.
+## Problem Statement
 
-To address this issue, the company has decided to implement a Business Intelligence (BI) tool that can help them manage and analyze their sales data effectively. They have shortlisted Microsoft PowerBI and SQL as the BI tools for this project.
+Axon, a small retailer specializing in classic cars, is experiencing difficulties in managing and analyzing their sales data. The sales team is struggling to interpret the data without a centralized system, leading to challenges in generating accurate and up-to-date sales reports. This issue is significantly impacting the management's decision-making process.
 
-The goal of the project is to design and implement a BI solution using PowerBI and SQL that can help the company manage and analyze their sales data effectively. 
+To address these challenges, Axon has decided to implement a Business Intelligence (BI) solution using Microsoft Power BI and SQL. The goal of this project is to design and implement a BI solution that will help Axon manage and analyze their sales data more effectively.
 
+## MySQL Sample Database Schema
 
+The MySQL sample database schema for this project consists of the following 8 tables:
 
-MySQL Sample Database Schema
+- **Customers**: Stores customer data.
+- **Products**: Stores a list of scale model cars.
+- **ProductLines**: Stores a list of product line categories.
+- **Orders**: Stores sales orders placed by customers.
+- **OrderDetails**: Stores sales order line items for each sales order.
+- **Payments**: Stores payments made by customers based on their accounts.
+- **Employees**: Stores all employee information and the organizational structure (e.g., who reports to whom).
+- **Offices**: Stores sales office data.
 
-The MySQL sample database schema consists of the following 8 tables:
+## Tools and Technologies
 
-Customers: stores customer’s data.
+To extract, clean, analyze sales data, and build interactive dashboards and reports, the following tools and technologies will be used:
 
-Products: stores a list of scale model cars.
+- **Microsoft Power BI**: [Power BI](https://powerbi.microsoft.com/en-us/)
+- **SQL**: [MySQL](https://www.mysql.com/)
 
-ProductLines: stores a list of product line categories.
+These tools are widely used in the field of Business Intelligence (BI) and are well-suited for solving various data-related problems.
 
-Orders: stores sales orders placed by customers.
+## Deliverables
 
-OrderDetails: stores sales order line items for each sales order.
+1. **Documented Report**: A comprehensive report in Word or PDF format detailing the project process, findings, and insights.
+2. **SQL Files**: Scripts used for data extraction, transformation, and loading (ETL) processes.
+3. **Power BI Report**: An interactive Power BI report/dashboard providing visual insights into the sales data.
 
-Payments: stores payments made by customers based on their accounts.
+## Project Structure
 
-Employees: stores all employee information as well as the organization structure such as who reports to whom.
-
-Offices: stores sales office data
-
-
-
-Tools required for the capstone project:
-
-These tools and technologies can be used to extract, clean, and analyze sales data and build interactive dashboards and reports. They are widely used in the field of Business Intelligence (BI) and can be leveraged to solve a variety of data-related problems.
-
-Microsoft PowerBI: https://powerbi.microsoft.com/en-us/
-
-SQL: https://www.mysql.com/
-
-
-
-Deliverables: 
-
-Documented report in Word or PDF format
-
-SQL files
-
-Power BI report
