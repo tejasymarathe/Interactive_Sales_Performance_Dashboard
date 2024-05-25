@@ -34,5 +34,4 @@ These tools are widely used in the field of Business Intelligence (BI) and are w
 2. **SQL Files**: Scripts used for data extraction, transformation, and loading (ETL) processes.
 3. **Power BI Report**: An interactive Power BI report/dashboard providing visual insights into the sales data.
 
-## Project Structure
 
