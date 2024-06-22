@@ -1,5 +1,8 @@
 # Axon Sales Data Analysis and Business Intelligence Project
 
+![Alt text](image.jpeg)
+
+
 ## Problem Statement
 
 Axon, a small retailer specializing in classic cars, is experiencing difficulties in managing and analyzing their sales data. The sales team is struggling to interpret the data without a centralized system, leading to challenges in generating accurate and up-to-date sales reports. This issue is significantly impacting the management's decision-making process.
